@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Data files (optional - remove if you want to include dataset)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
