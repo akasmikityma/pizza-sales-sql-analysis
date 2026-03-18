@@ -124,6 +124,7 @@ Visual outputs of queries are available in the `screenshots/` folder.
 
 **Your Name**
 
+Bishal Maity 
 ---
 
 ⭐ If you found this project useful, feel free to star the repo!
