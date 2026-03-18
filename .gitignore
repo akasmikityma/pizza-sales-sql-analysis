@@ -1,3 +1,6 @@
+# Jupyter Notebook checkpoints (IGNORE THIS)
+.ipynb_checkpoints/
+
 # Python
 __pycache__/
 *.pyc
